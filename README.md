@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm efe,<br>I am an 19 year old software developer working on web development.<br>I am currently working with PHP.<br>That's all you need to know :D
+efe 19 php bb
 
 
 ## 🌐 Socials:
