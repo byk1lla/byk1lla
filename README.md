@@ -2,7 +2,7 @@
 
 # 👾 efe / byk1lla
 
-**Solo founder & developer @ [IEF Software](https://iefsoftware.tr)** · İstanbul
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=700&height=60&lines=Solo+founder+%26+developer+%40+IEF+Software;15%2B+canl%C4%B1+proje+%C2%B7+%C4%B0stanbul;React+%2B+NestJS+%2B+PostgreSQL;Kendi+PHP+MVC+framework%27%C3%BCm%3A+IEF;%C5%9Eablon+de%C4%9Fil%2C+sistem+yaz%C4%B1yorum)](https://iefsoftware.tr)
 
 > Şirketler için sıfırdan web platformu kuruyorum.  
 > Şablon tema yok, hazır CMS yok — sistemi tasarlayıp yazıyorum, canlıya alıp bakımını üstleniyorum.
