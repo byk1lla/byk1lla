@@ -11,8 +11,8 @@
 
 [![Website](https://img.shields.io/badge/iefsoftware.tr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iefsoftware.tr)
 [![Mail](https://img.shields.io/badge/iefeerd@iefsoftware.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iefeerd@iefsoftware.tr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iisma1ll)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/byk1lla_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iefeerd)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/motorsuruyom)
 
 </div>
 
