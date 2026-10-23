@@ -1,39 +1,129 @@
 <div align="center">
 
-# 👾 efe / byk1lla
+<img src="./assets/header.svg" width="100%" alt="byk1lla"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=700&height=60&lines=Solo+founder+%26+developer+%40+IEF+Software;15%2B+canl%C4%B1+proje+%C2%B7+%C4%B0stanbul;React+%2B+NestJS+%2B+PostgreSQL;Kendi+PHP+MVC+framework%27%C3%BCm%3A+IEF;%C5%9Eablon+de%C4%9Fil%2C+sistem+yaz%C4%B1yorum)](https://iefsoftware.tr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=6EE7B7&center=true&vCenter=true&width=760&height=50&lines=%C5%9Eablon+de%C4%9Fil%2C+sistem+yaz%C4%B1yorum.;Fikirden+canl%C4%B1ya%2C+tek+elden.;7+%C3%BCr%C3%BCn+%C2%B7+15%2B+canl%C4%B1+proje+%C2%B7+kendi+altyap%C4%B1m;AI-native+geli%C5%9Ftirme+%C2%B7+kendi+MCP+sunucular%C4%B1m)](https://iefsoftware.tr)
 
-> Şirketler için sıfırdan web platformu kuruyorum.  
-> Şablon tema yok, hazır CMS yok — sistemi tasarlayıp yazıyorum, canlıya alıp bakımını üstleniyorum.
-
-`15+ canlı proje` · `2019'dan beri kod` · `kendi framework'üm`
-
-[![Website](https://img.shields.io/badge/iefsoftware.tr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iefsoftware.tr)
-[![Mail](https://img.shields.io/badge/iefeerd@iefsoftware.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iefeerd@iefsoftware.tr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iefeerd)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/motorsuruyom)
+[![Website](https://img.shields.io/badge/iefsoftware.tr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=6EE7B7)](https://iefsoftware.tr)
+[![Mail](https://img.shields.io/badge/iefeerd@iefsoftware.tr-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:iefeerd@iefsoftware.tr)
+[![Instagram](https://img.shields.io/badge/iefeerd-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/iefeerd)
+[![X](https://img.shields.io/badge/motorsuruyom-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/motorsuruyom)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ⚡ Ne İş Yapıyorum
+## 🧠 Hakkımda
 
-| | |
-|---|---|
-| 🏗️ **Özel platform** | Rezervasyon, POS, e-ticaret, SaaS, pazaryeri |
-| 🤖 **İç otomasyon** | WhatsApp botları, sipariş takibi, ön muhasebe, ERP/CRM panelleri |
-| 🌐 **Kurumsal site** | Kendi framework'üm üzerinde — panelli, hızlı, bağımlılıksız |
-| ☁️ **Hosting & altyapı** | Kendi VPS'im ve DNS'im. Deploy, domain, SSL, bakım tek elden |
+```ts
+const efe = {
+  rol:        "Solo founder & developer @ IEF Software",
+  konum:      "İstanbul, TR",
+  since:      2019,                       // Python tooling → 2021'de web
+  canliProje: "15+",
+  urun:       7,
+  stack:      { agir: "React · NestJS · PostgreSQL", hafif: "IEF Framework (PHP MVC)" },
+  workflow:   "AI-native — Claude Code + kendi MCP sunucularım",
+  altyapi:    "Kendi VPS'im + PowerDNS. Üçüncü parti hosting'e muhtaç değil.",
+  motto:      "Şablon değil, sistem.",
+};
+```
 
----
+<div align="center">
+<img src="./assets/terminal.svg" width="90%" alt="terminal"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🚀 Ürünler
+
+> Müşteri işi değil — sahibi biziz, satan da biziz.
+
+| | Ürün | Ne yapıyor | Durum |
+|---|------|-----------|:-----:|
+| 🎓 | **[Hocalab](https://hocalab.com)** | Özel ders öğretmenleri için SaaS + pazaryeri. Öğretmene kendi sitesi, öğrenci/ödeme/takvim tek panelde, iyzico alt üye işyeri ile direkt ödeme | ![](https://img.shields.io/badge/canlı-6EE7B7?style=flat-square) |
+| ⚖️ | **Adliom** | Hukuk bürolarına özel lisanslı CMS. Canlı editör, 10 tema + tema motoru, müvekkil portalı, KVKK/SEO/PWA, offline lisans koruması | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
+| 🔎 | **Karşı Taraf** | Avukatlar için karşı taraf araştırma SaaS'ı | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
+| 🚗 | **[Dinamo](https://dinamo.iefsoftware.tr)** | Rent a car firmaları için araç kiralama yazılımı | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
+| 📦 | **Bayikolay** | Toptancılar için white-label bayi sipariş + dağıtım platformu. Faturalı/faturasız bayi, iyzico, kurye rota planlama, müşteri başına izole DB | ![](https://img.shields.io/badge/geliştiriliyor-A78BFA?style=flat-square) |
+| 🛠️ | **[Saha](https://saha.iefsoftware.tr)** | Saha ekipleri için mobil-öncelikli PWA. İş emri, ağ krokisi, envanter + OCR, şifre kasası, dokunmatik imzalı teslim tutanağı, çevrimdışı çalışma | ![](https://img.shields.io/badge/kullanımda-6EE7B7?style=flat-square) |
+| 🏰 | **Citadel** | Kendi PaaS / hosting panelim. Deploy, domain, DNS, SSL, veritabanı tek arayüzden | ![](https://img.shields.io/badge/geliştiriliyor-A78BFA?style=flat-square) |
+| ⚙️ | **IEF Framework** | Her şeyin temeli. PHP MVC — routing, ORM, panel jeneratörü, çok dil, medya kütüphanesi | ![](https://img.shields.io/badge/aktif-6EE7B7?style=flat-square) |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🤖 AI-Native Çalışıyorum
+
+Kod yazmayı bıraktım, **sistem kurmaya** odaklandım. Planlama, mimari ve ürün kararları bende; uygulama Claude Code'da faz paketleriyle akıyor. Kendi ürünlerimi de AI'ın elinin altına koyuyorum — her birinin kendi **MCP sunucusu** var:
+
+| MCP | Ne yaptırıyor |
+|-----|---------------|
+| 🎓 **Hocalab OPS** | Öğretmen başvurusu kontrolü, onay, ödeme altyapısı, destek masası, KVKK talepleri |
+| 📣 **Hocalab Social Agent** | Instagram kuyruğu, DM/yorum yönetimi, Meta reklam kurulumu |
+| 📇 **IEF CRM** | Lead import, arama logu, atama, deploy + rollback |
+| 💬 **IEF WhatsApp** | Sohbet okuma, mesaj/dosya/sesli mesaj gönderme, bilgi bankası |
+| 🧾 **EDM Fatura** | e-Fatura taslağı hazırlama, sıralı numara sayacı, mükellef kontrolü |
+| ⚖️ **Adliom** | Dava, süre hesabı, müvekkil, randevu, emsal karar arama |
+
+> Sonuç: Bir sohbetten fatura kesiliyor, lead aranıyor, öğretmen onaylanıyor, deploy geri alınıyor.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 💼 Seçilmiş Müşteri İşleri
+
+<details open>
+<summary><b>🍽️ POS / Rezervasyon</b></summary>
+<br/>
+
+| Proje | Ne yaptım |
+|-------|-----------|
+| 🏖️ **The ROOF Ada** | Beach club rezervasyon + POS. Görsel yerleşim planından loca yönetimi, adisyon akışı, cloud-only mimari, termal yazıcı için özel **print-agent köprüsü** |
+| 🥙 **Konyalı Etli Ekmek** | Adisyon/POS sistemi. Pardus terminaller, SSH üzerinden uzaktan yönetim paneli, yazıcı kurulumu |
+| 🛞 **Point Lastik** | Lastikçi için online randevu sistemi |
+
+</details>
+
+<details open>
+<summary><b>🛒 E-ticaret / B2B</b></summary>
+<br/>
+
+| Proje | Ne yaptım |
+|-------|-----------|
+| 🏍️ **Moto Yedek Parça** | Araç/parça uyumluluk eşleştirmeli e-ticaret. Marka/model/yıl/motor kırılımında veri modeli, varyantlı ürün, stok + kargo |
+| 🔌 **dizgiistiyorum.com** | PCB dizgi için B2B sipariş platformu |
+
+</details>
+
+<details open>
+<summary><b>🏢 Kurumsal + Panel</b></summary>
+<br/>
+
+| Proje | Ne yaptım |
+|-------|-----------|
+| 🚛 **[3E Taşımacılık](https://3etasimacilik.com.tr)** | Kurumsal site + ERP/CRM. Sevkiyat, araç, müşteri, teklif takibi, WhatsApp asistanı |
+| 🔧 **Vag Garaj** | VAG servisi için Next.js site + randevu/servis takip sistemi |
+| 🌍 **6 dilli ihracat kataloğu** | İhracat odaklı marka için çok dilli vitrin/katalog sitesi |
+| 🩺 Vetumay Veteriner · 🚦 Onur Sürücü Kursu · 💄 Helikon | IEF Framework üzerinde panelli kurumsal siteler |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🎮 Yan Projeler (eğlencesine)
+
+- 🤠 **Muhtar** — Jubbio (yerli Discord alternatifi) için çok modüllü moderasyon botu. Ücretsiz, platforma açılış hediyesi
+- 🃏 **Pis Yedili Online** — Arkadaş grubu için oda kodlu, gerçek zamanlı kağıt oyunu
+- 🎼 **Solfej Antrenörü** — Müzisyenler için Next.js kulak eğitimi uygulaması
+- 👻 **Köy Korku** — Roblox'ta co-op korku oyunu
+- 📺 **Kick Overlay** — Yayıncılar için chat-etkileşimli oyun/overlay sistemi
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## 🔧 İki Hatlı Stack
 
-İşin ağırlığına göre seçiyorum, ikisini de aynı işe zorlamıyorum.
+İşin ağırlığına göre seçiyorum, ikisini aynı işe zorlamıyorum.
 
-| | Ağır iş | Kurumsal / vitrin |
+| | 🏋️ Ağır iş | 🪶 Kurumsal / vitrin |
 |---|---|---|
 | **Stack** | React · NestJS · PostgreSQL | IEF Framework (kendi PHP MVC'im) |
 | **Yapı** | Monorepo, SSR/Next.js, TypeORM | Kendi routing + ORM + panel jeneratörü |
@@ -42,122 +132,72 @@
 | **Deploy** | Docker + Nginx | Paylaşımlı hosting'te bile çalışır |
 | **Ne zaman** | Çok kullanıcılı, karmaşık veri, entegrasyon yoğun | Hızlı teslim, hafif, düşük bakım |
 
----
+<div align="center">
+<br/>
 
-## 🚀 Ürünler
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,tailwind,threejs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,redis,docker,nginx,linux,git&theme=dark" />
 
-Kendi ürünlerim — müşteri işi değil, sahibi benim.
+</div>
 
-| Ürün | Ne yapıyor | Durum | Stack |
-|------|-----------|-------|-------|
-| 🎓 **[Hocalab](https://hocalab.com)** | Özel ders öğretmenleri için SaaS + pazaryeri. Öğretmen kendi sitesini alıyor; öğrenci, ödeme ve takvim yönetimi tek panelde | 🟢 Canlı | React · NestJS · PostgreSQL |
-| 🏰 **Citadel** | Kendi PaaS / hosting panelim. Deploy, domain, DNS, SSL, veritabanı tek arayüzden | 🚧 Geliştiriliyor | NestJS · React |
-| ⚙️ **IEF Framework** | Altyapımın temeli. PHP MVC — routing, ORM, panel jeneratörü, çok dil, medya kütüphanesi | 🟢 Aktif | PHP |
-
----
-
-## 💼 Seçilmiş Müşteri İşleri
-
-| Proje | Ne yaptım | Stack |
-|-------|-----------|-------|
-| 🏖️ **The ROOF Ada** | Beach club rezervasyon + POS. Görsel yerleşim planı üzerinden loca yönetimi, adisyon akışı, cloud-only mimari, termal yazıcı için özel **print-agent köprüsü** | React · NestJS · PostgreSQL |
-| 🏍️ **Moto Yedek Parça** | E-ticaret platformu. Araç/parça uyumluluk eşleştirmesi — marka/model/yıl/motor tipi kırılımında veri modeli, varyantlı ürün, stok ve kargo takibi | React · NestJS · PostgreSQL |
-| 🚛 **[3E Taşımacılık](https://3etasimacilik.com.tr)** | Kurumsal site + ERP/CRM paneli. Sevkiyat, araç ve müşteri kayıtları, teklif takibi, WhatsApp asistanı entegrasyonu | React · NestJS |
-| 💬 **WhatsApp AI Asistan** | Baileys tabanlı bot altyapısı + React yönetim paneli. AI yanıt katmanı, otomatik kural motoru, insana devretme. Gerçek bir işletmede canlı | NestJS · React · Baileys |
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## ☁️ Altyapı
 
 Kendi sunucularımı ve DNS'imi yönetiyorum — müşteriyi üçüncü bir hosting firmasına muhtaç bırakmıyorum.
 
-`VPS + Docker` · `Nginx reverse proxy` · `PowerDNS otoriter DNS` · `Let's Encrypt otomatik SSL` · `Git tabanlı deploy` · `DB yedekleme rutini`
+```mermaid
+flowchart LR
+    U([👤 Ziyaretçi]) --> DNS[PowerDNS<br/>otoriter DNS]
+    DNS --> NG[Nginx<br/>reverse proxy + SSL]
+    NG --> A[NestJS API<br/>Docker]
+    NG --> P[IEF Framework<br/>PHP]
+    A --> DB[(PostgreSQL)]
+    A --> R[(Redis / BullMQ)]
+    P --> M[(MySQL)]
+    G[Git push] -.deploy.-> NG
+    DB -.yedek.-> B[(Backup)]
+```
 
 > Bu altyapıyı bir panele dönüştürme işi = **Citadel**
 
----
-
-## 🔨 Şu An Üzerinde Çalıştıklarım
-
-- 🏰 **Citadel** — hosting panelini kullanılabilir hale getirmek
-- 📈 **Hocalab** — öğretmen tarafını büyütmek, pazaryeri akışını oturtmak
-- 🤖 **WhatsApp asistanı** — çoklu kurulum, ürünleştirme
-- 🧾 Kendi şirketim için iç ön muhasebe aracı
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Diller**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-
-**Veri**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## 📂 Açık Kaynak
 
 | Repo | Ne yapıyor | Stack |
 |------|-----------|-------|
-| **[ief-file-manager](https://github.com/byk1lla/ief-file-manager)** | Web tabanlı dosya yöneticisi — drag & drop, gömülü kod editörü, medya önizleme, çok dil. Sunucuya SSH atmadan dosya yönetmek için | PHP |
+| **[ief-file-manager](https://github.com/byk1lla/ief-file-manager)** | Web tabanlı dosya yöneticisi — drag & drop, gömülü kod editörü, medya önizleme, çok dil | PHP |
 | **[urlShortener](https://github.com/byk1lla/urlShortener)** | Link kısaltma servisi | PHP |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## 📊 GitHub
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=byk1lla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=byk1lla&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byk1lla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=byk1lla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f17&title_color=6ee7b7&icon_color=a78bfa&text_color=cbd5e1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byk1lla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0b0f17&title_color=6ee7b7&text_color=cbd5e1"/>
+
+<img src="https://streak-stats.demolab.com/?user=byk1lla&theme=tokyonight&hide_border=true&background=0b0f17&ring=6ee7b7&fire=a78bfa&currStreakLabel=6ee7b7" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byk1lla&bg_color=0b0f17&color=cbd5e1&line=6ee7b7&point=a78bfa&area=true&area_color=6ee7b7&hide_border=true" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byk1lla/byk1lla/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byk1lla/byk1lla/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/byk1lla/byk1lla/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 İletişim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,50:22d3ee,100:a78bfa&height=140&section=footer&text=Bir%20i%C5%9Fin%20mi%20var%3F%20Yaz%2C%20konu%C5%9Fal%C4%B1m.&fontSize=24&fontColor=0b0f17&animation=twinkling&fontAlignY=70" width="100%"/>
 
-Bir işin var, nasıl yapılacağından emin değilsin — yaz, konuşalım.
+**📧 [iefeerd@iefsoftware.tr](mailto:iefeerd@iefsoftware.tr)** · **🌐 [iefsoftware.tr](https://iefsoftware.tr)**
 
-**📧 iefeerd@iefsoftware.tr** · **🌐 [iefsoftware.tr](https://iefsoftware.tr)**
-
-[![](https://visitcount.itsvg.in/api?id=byk1lla&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=byk1lla&color=6ee7b7&style=flat-square&label=profil+ziyareti)
 
 </div>
