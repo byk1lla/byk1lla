@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#6ee7b7"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="900" height="360" rx="14" fill="#0b0f17"/>
+<rect x="1" y="1" width="898" height="358" rx="14" fill="none" stroke="url(#g)" stroke-opacity="0.5" stroke-width="1.5"/>
+<rect x="1" y="1" width="898" height="38" rx="14" fill="#111827"/><rect x="1" y="26" width="898" height="13" fill="#111827"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="450" y="25" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#64748b">efe@ief: ~</text>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15">
+<clipPath id="c0"><rect x="20" y="62" height="22" width="0"><animate attributeName="width" values="0;0;79;79;0" keyTimes="0;0.030;0.090;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c0)"><text x="24" y="78"><tspan fill="#6ee7b7">$</tspan><tspan fill="#e2e8f0"> whoami</tspan></text></g>
+<text x="24" y="100" fill="#94a3b8" opacity="0">efe · solo founder @ IEF Software · 15+ canlı proje<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.120;0.130;0.96;1" dur="16s" repeatCount="indefinite"/></text>
+<clipPath id="c1"><rect x="20" y="116" height="22" width="0"><animate attributeName="width" values="0;0;142;142;0" keyTimes="0;0.190;0.250;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c1)"><text x="24" y="132"><tspan fill="#6ee7b7">$</tspan><tspan fill="#e2e8f0"> cat stack.txt</tspan></text></g>
+<text x="24" y="154" fill="#94a3b8" opacity="0">React · NestJS · PostgreSQL  |  IEF Framework (PHP MVC)<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.280;0.290;0.96;1" dur="16s" repeatCount="indefinite"/></text>
+<clipPath id="c2"><rect x="20" y="170" height="22" width="0"><animate attributeName="width" values="0;0;142;142;0" keyTimes="0;0.350;0.410;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c2)"><text x="24" y="186"><tspan fill="#6ee7b7">$</tspan><tspan fill="#e2e8f0"> ls ~/products</tspan></text></g>
+<text x="24" y="208" fill="#94a3b8" opacity="0">hocalab  adliom  karsi-taraf  dinamo  bayikolay  saha  citadel<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.440;0.450;0.96;1" dur="16s" repeatCount="indefinite"/></text>
+<clipPath id="c3"><rect x="20" y="224" height="22" width="0"><animate attributeName="width" values="0;0;161;161;0" keyTimes="0;0.510;0.570;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c3)"><text x="24" y="240"><tspan fill="#6ee7b7">$</tspan><tspan fill="#e2e8f0"> claude mcp list</tspan></text></g>
+<text x="24" y="262" fill="#94a3b8" opacity="0">hocalab-ops ✔  crm ✔  whatsapp ✔  edm-fatura ✔  adliom ✔<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.600;0.610;0.96;1" dur="16s" repeatCount="indefinite"/></text>
+<clipPath id="c4"><rect x="20" y="278" height="22" width="0"><animate attributeName="width" values="0;0;206;206;0" keyTimes="0;0.670;0.730;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c4)"><text x="24" y="294"><tspan fill="#6ee7b7">$</tspan><tspan fill="#e2e8f0"> git push origin main</tspan></text></g>
+<text x="24" y="316" fill="#94a3b8" opacity="0">✔ build  ✔ docker  ✔ nginx  →  canlıda 🚀<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.760;0.770;0.96;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="24" y="348" fill="#6ee7b7">$</text><rect x="40" y="335" width="9" height="17" fill="#6ee7b7"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</g></svg>
