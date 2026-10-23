@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="byk1lla"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=6EE7B7&center=true&vCenter=true&width=760&height=50&lines=%C5%9Eablon+de%C4%9Fil%2C+sistem+yaz%C4%B1yorum.;Fikirden+canl%C4%B1ya%2C+tek+elden.;7+%C3%BCr%C3%BCn+%C2%B7+15%2B+canl%C4%B1+proje+%C2%B7+kendi+altyap%C4%B1m;AI-native+geli%C5%9Ftirme+%C2%B7+kendi+MCP+sunucular%C4%B1m)](https://iefsoftware.tr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=6EE7B7&center=true&vCenter=true&width=760&height=50&lines=%C5%9Eablon+de%C4%9Fil%2C+sistem+yaz%C4%B1yorum.;Fikirden+canl%C4%B1ya%2C+tek+elden.;9+%C3%BCr%C3%BCn+%C2%B7+15%2B+canl%C4%B1+proje+%C2%B7+kendi+altyap%C4%B1m;AI-native+geli%C5%9Ftirme+%C2%B7+kendi+MCP+sunucular%C4%B1m)](https://iefsoftware.tr)
 
 [![Website](https://img.shields.io/badge/iefsoftware.tr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=6EE7B7)](https://iefsoftware.tr)
 [![Mail](https://img.shields.io/badge/iefeerd@iefsoftware.tr-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:iefeerd@iefsoftware.tr)
@@ -21,7 +21,7 @@ const efe = {
   konum:      "İstanbul, TR",
   since:      2019,                       // Python tooling → 2021'de web
   canliProje: "15+",
-  urun:       7,
+  urun:       9,
   stack:      { agir: "React · NestJS · PostgreSQL", hafif: "IEF Framework (PHP MVC)" },
   workflow:   "AI-native — Claude Code + kendi MCP sunucularım",
   altyapi:    "Kendi VPS'im + PowerDNS. Üçüncü parti hosting'e muhtaç değil.",
@@ -42,9 +42,10 @@ const efe = {
 | | Ürün | Ne yapıyor | Durum |
 |---|------|-----------|:-----:|
 | 🎓 | **[Hocalab](https://hocalab.com)** | Özel ders öğretmenleri için SaaS + pazaryeri. Öğretmene kendi sitesi, öğrenci/ödeme/takvim tek panelde, iyzico alt üye işyeri ile direkt ödeme | ![](https://img.shields.io/badge/canlı-6EE7B7?style=flat-square) |
-| ⚖️ | **Adliom** | Hukuk bürolarına özel lisanslı CMS. Canlı editör, 10 tema + tema motoru, müvekkil portalı, KVKK/SEO/PWA, offline lisans koruması | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
+| ⚖️ | **[Adliom](https://iefsoftware.tr/urunler/adliom)** | Hukuk bürolarına özel lisanslı CMS. Canlı editör, 10 tema + tema motoru, müvekkil portalı, KVKK/SEO/PWA, offline lisans koruması | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
 | 🔎 | **Karşı Taraf** | Avukatlar için karşı taraf araştırma SaaS'ı | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
 | 🚗 | **[Dinamo](https://dinamo.iefsoftware.tr)** | Rent a car firmaları için araç kiralama yazılımı | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
+| 🧾 | **[Mercho](https://mercho.iefsoftware.tr)** | Beden/renk/numara varyantlı satış yapan mağazalar için barkodlu stok ve satış programı. Satış, stok, kasa ve kâr takibi tek panelde | ![](https://img.shields.io/badge/satışta-6EE7B7?style=flat-square) |
 | 📦 | **Bayikolay** | Toptancılar için white-label bayi sipariş + dağıtım platformu. Faturalı/faturasız bayi, iyzico, kurye rota planlama, müşteri başına izole DB | ![](https://img.shields.io/badge/geliştiriliyor-A78BFA?style=flat-square) |
 | 🛠️ | **Saha** | Saha ekipleri için mobil-öncelikli PWA. İş emri, ağ krokisi, envanter + OCR, şifre kasası, dokunmatik imzalı teslim tutanağı, çevrimdışı çalışma | ![](https://img.shields.io/badge/kullanımda-6EE7B7?style=flat-square) |
 | 🏰 | **Citadel** | Kendi PaaS / hosting panelim. Deploy, domain, DNS, SSL, veritabanı tek arayüzden | ![](https://img.shields.io/badge/geliştiriliyor-A78BFA?style=flat-square) |
